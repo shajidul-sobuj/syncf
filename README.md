@@ -8,7 +8,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>📈 Overall Progress</h3>
-      <h1>322</h1>
+      <h1>323</h1>
       <p>Problems Solved</p>
     </td>
     <td align="center" width="50%">
@@ -20,11 +20,11 @@
     <td colspan="2">
       <h3 align="center">🚀 Recent Submissions</h3>
       <ul>
+        <li><b>Codeforces:</b> <code>Reverse_a_Permutation</code></li>
         <li><b>Codeforces:</b> <code>Divisible_Permutation</code></li>
         <li><b>Codeforces:</b> <code>Offshores</code></li>
         <li><b>Codeforces:</b> <code>Lawn_Mower</code></li>
         <li><b>Codeforces:</b> <code>Boy_or_Girl</code></li>
-        <li><b>Codeforces:</b> <code>Replace_and_Sum</code></li>
       </ul>
     </td>
   </tr>
