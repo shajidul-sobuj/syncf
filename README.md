@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **0** |
+| 🧠 Total Problems Solved | **1** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,13 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-
+| Codeforces | **1** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
-
+| Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
