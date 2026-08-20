@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **25** |
+| 🧠 Total Problems Solved | **26** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **22** |
+| Atcoder | **23** |
 | Leetcode | **3** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | B. Strong Word | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | A. Product Quality Evaluation | C++23 (GCC 15.2.0) | 2026-02-11 |
 | Atcoder | C. Discount Coupon | C++23 (GCC 15.2.0) | 2026-02-09 |
 | Atcoder | B. Exam Passers | C++23 (GCC 15.2.0) | 2026-02-09 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Atcoder | A. Append s | C++23 (GCC 15.2.0) | 2026-02-07 |
 | Atcoder | B. Repdigit | C++23 (GCC 15.2.0) | 2026-02-07 |
 | Leetcode | Binary Tree Inorder Traversal | cpp | 2026-01-29 |
-| Leetcode | Binary Tree Preorder Traversal | cpp | 2026-01-29 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
