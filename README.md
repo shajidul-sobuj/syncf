@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **39** |
+| 🧠 Total Problems Solved | **40** |
 
 ## 🔥 Code Mastery
 
@@ -24,7 +24,7 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 |----------|----------------|
 | Leetcode | **7** |
 | Atcoder | **27** |
-| Vjudge | **5** |
+| Vjudge | **6** |
 
 ## 🚀 Recent Submissions
 
