@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **49** |
+| 🧠 Total Problems Solved | **50** |
 
 ## 🔥 Code Mastery
 
@@ -23,7 +23,7 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Platform | Problems Solved |
 |----------|----------------|
 | Codeforces | **48** |
-| Leetcode | **1** |
+| Leetcode | **2** |
 
 ## 🚀 Recent Submissions
 
