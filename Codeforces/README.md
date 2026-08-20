@@ -13,18 +13,14 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **10** |
-| 📁 Contests | **1** |
+| ✅ Problems Solved | **0** |
+| 📁 Contests | **0** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
-| 2158A - Suspension | - | C++17 (GCC 7-32) | 2026-08-20 |
-| 71A - Way Too Long Words | - | C++17 (GCC 7-32) | 2026-08-20 |
-| 158A - Next Round | - | C++17 (GCC 7-32) | 2026-08-20 |
-| 339A - Helpful Maths | - | C++17 (GCC 7-32) | 2026-08-20 |
-| 231A - Team | - | C++17 (GCC 7-32) | 2026-08-20 |
+
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
