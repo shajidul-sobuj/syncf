@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2184A - Social_Experiment
- * Link: https://codeforces.com/contest/2184/problem/A
- * Submission ID: 357472440
- * Language: C++17 (GCC 7-32)
- * Execution Time: 78 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: math
- * Submitted At: Mon, 12 Jan 2026 14:46:42 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2184A - Social Experiment
 
 #include <bits/stdc++.h>
 using namespace std;
