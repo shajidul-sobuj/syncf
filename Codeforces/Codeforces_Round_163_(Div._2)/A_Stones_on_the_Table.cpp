@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 266A - Stones_on_the_Table
- * Link: https://codeforces.com/contest/266/problem/A
- * Submission ID: 354647393
- * Language: C++17 (GCC 7-32)
- * Execution Time: 92 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: implementation
- * Submitted At: Tue, 23 Dec 2025 06:27:54 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 266A - Stones on the Table
 
 #include <bits/stdc++.h>
 using namespace std;
