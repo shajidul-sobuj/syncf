@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **7** |
+| 🧠 Total Problems Solved | **8** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **7** |
+| Codeforces | **8** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | Elephant | C++17 (GCC 7-32) | 2025-12-22 |
 | Codeforces | Word Capitalization | C++17 (GCC 7-32) | 2025-12-22 |
 | Codeforces | Helpful Maths | C++17 (GCC 7-32) | 2025-12-21 |
 | Codeforces | Team | C++17 (GCC 7-32) | 2025-12-21 |
