@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 1873A - Short_Sort
- * Link: https://codeforces.com/contest/1873/problem/A
- * Submission ID: 359079008
- * Language: C++17 (GCC 7-32)
- * Execution Time: 31 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: brute force, implementation
- * Submitted At: Wed, 21 Jan 2026 14:36:50 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 1873A - Short Sort
 
 #include <bits/stdc++.h>
 using namespace std;
