@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **70** |
+| 🧠 Total Problems Solved | **35** |
 
 ## 🔥 Code Mastery
 
@@ -22,21 +22,22 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **63** |
 | Leetcode | **7** |
+| Atcoder | **27** |
+| Vjudge | **1** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
-| Atcoder | C. Cookies and Greedy Takahashi | C++23 (GCC 15.2.0) | 2026-08-15 |
-| Atcoder | B. Survey Tabulation | C++23 (GCC 15.2.0) | 2026-08-15 |
-| Atcoder | A. Nine or Nein | C++23 (GCC 15.2.0) | 2026-08-15 |
-| Atcoder | A. Obesity | C++23 (GCC 15.2.0) | 2026-07-19 |
-| Atcoder | A. Obesity | C++23 (GCC 15.2.0) | 2026-07-19 |
-| Atcoder | B. Keep the Change | C++23 (GCC 15.2.0) | 2026-07-18 |
-| Atcoder | D. Placing Rooks | C++23 (GCC 15.2.0) | 2026-07-11 |
-| Atcoder | B. Representative Balls | C++23 (GCC 15.2.0) | 2026-07-11 |
+| Leetcode | Palindrome Number | cpp | 2026-04-17 |
+| Leetcode | Palindrome Number | cpp | 2026-04-17 |
+| Leetcode | Two Sum | cpp | 2026-03-23 |
+| Leetcode | Two Sum | cpp | 2026-03-23 |
+| Atcoder | B. Not Found | C++23 (GCC 15.2.0) | 2026-02-14 |
+| Atcoder | A. Buttons | C++23 (GCC 15.2.0) | 2026-02-14 |
+| Atcoder | E. Sugoroku Destination | C++23 (GCC 15.2.0) | 2026-02-14 |
+| Atcoder | C. Center Alignment | C++23 (GCC 15.2.0) | 2026-02-14 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
