@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2193B - Reverse_a_Permutation
- * Link: https://codeforces.com/contest/2193/problem/B
- * Submission ID: 362040251
- * Language: C++17 (GCC 7-32)
- * Execution Time: 250 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: greedy
- * Submitted At: Sun, 08 Feb 2026 17:34:37 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2193B - Reverse a Permutation
 
 #include <bits/stdc++.h>
 using namespace std;
