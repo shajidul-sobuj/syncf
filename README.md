@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **28** |
+| 🧠 Total Problems Solved | **29** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **25** |
+| Atcoder | **26** |
 | Leetcode | **3** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | A. Buttons | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | E. Sugoroku Destination | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | C. Center Alignment | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | B. Strong Word | C++23 (GCC 15.2.0) | 2026-02-14 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Atcoder | C. Discount Coupon | C++23 (GCC 15.2.0) | 2026-02-09 |
 | Atcoder | B. Exam Passers | C++23 (GCC 15.2.0) | 2026-02-09 |
 | Atcoder | A. Bacteria Growth Experiment | C++23 (GCC 15.2.0) | 2026-02-09 |
-| Atcoder | A. Append s | C++23 (GCC 15.2.0) | 2026-02-07 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
