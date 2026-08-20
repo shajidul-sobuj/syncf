@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **29** |
+| ✅ Problems Solved | **30** |
 | 📁 Contests | **23** |
 
 ## 🕐 Recent Submissions
@@ -21,10 +21,10 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | 2194B - Offshores | - | C++17 (GCC 7-32) | 2026-08-20 |
+| Replace and Sum | 1000 | C++17 (GCC 7-32) | 2026-01-25 |
 | DBMB and the Array | 800 | C++17 (GCC 7-32) | 2026-01-25 |
 | Short Sort | 800 | C++17 (GCC 7-32) | 2026-01-21 |
 | YES or YES? | 800 | C++17 (GCC 7-32) | 2026-01-21 |
-| IQ test | 1300 | C++17 (GCC 7-32) | 2026-01-20 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
