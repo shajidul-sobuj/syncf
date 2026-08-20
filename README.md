@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **11** |
+| 🧠 Total Problems Solved | **12** |
 
 ## 🔥 Code Mastery
 
@@ -23,20 +23,20 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Platform | Problems Solved |
 |----------|----------------|
 | Leetcode | **1** |
-| Atcoder | **10** |
+| Atcoder | **11** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Leetcode | Binary Tree Postorder Traversal | cpp | 2026-01-29 |
+| Atcoder | A. Octave | C++23 (GCC 15.2.0) | 2026-01-10 |
 | Atcoder | C. Subscribers | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | B. Rotate | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | B. Long Loong | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | B. Greedy Takahashi | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | A. 2UP3DOWN | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | B. Attack | C++23 (GCC 15.2.0) | 2026-01-09 |
-| Atcoder | C. Multi Test Cases | C++23 (GCC 15.2.0) | 2026-01-09 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
