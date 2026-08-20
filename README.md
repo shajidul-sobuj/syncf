@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **52** |
+| 🧠 Total Problems Solved | **53** |
 
 ## 🔥 Code Mastery
 
@@ -22,20 +22,20 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
+| Leetcode | **6** |
 | Atcoder | **47** |
-| Leetcode | **5** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Leetcode | Palindrome Number | cpp | 2026-04-17 |
 | Atcoder | D. Sensor Data Logging | C++23 (GCC 15.2.0) | 2026-04-11 |
 | Atcoder | B. Trimo | C++23 (GCC 15.2.0) | 2026-04-11 |
 | Atcoder | C. Draw Frame | C++23 (GCC 15.2.0) | 2026-04-04 |
 | Atcoder | A. Gothec | C++23 (GCC 15.2.0) | 2026-04-04 |
 | Atcoder | D. Personnel Change | C++23 (GCC 15.2.0) | 2026-03-28 |
 | Atcoder | A. illegal | C++23 (GCC 15.2.0) | 2026-03-28 |
-| Leetcode | Two Sum | cpp | 2026-03-23 |
 | Leetcode | Two Sum | cpp | 2026-03-23 |
 
 ---
