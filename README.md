@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **18** |
+| 🧠 Total Problems Solved | **19** |
 
 ## 🔥 Code Mastery
 
@@ -22,20 +22,20 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **18** |
+| Codeforces | **19** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | Sorting Game | C++17 (GCC 7-32) | 2026-01-17 |
 | Codeforces | MEX Reordering | C++17 (GCC 7-32) | 2026-01-17 |
 | Codeforces | Array Coloring | C++17 (GCC 7-32) | 2026-01-17 |
 | Codeforces | Hourglass | C++17 (GCC 7-32) | 2026-01-12 |
 | Codeforces | Social Experiment | C++17 (GCC 7-32) | 2026-01-12 |
 | Codeforces | Nearly Lucky Number | C++17 (GCC 7-32) | 2026-01-09 |
 | Codeforces | Dislike of Threes | C++17 (GCC 7-32) | 2026-01-09 |
-| Codeforces | New Year String | C++17 (GCC 7-32) | 2025-12-29 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
