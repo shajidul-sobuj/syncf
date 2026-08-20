@@ -13,17 +13,17 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **7** |
-| 📁 Contests | **6** |
+| ✅ Problems Solved | **8** |
+| 📁 Contests | **7** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| B. Long Loong | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | B. Greedy Takahashi | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | A. 2UP3DOWN | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | B. Attack | - | C++23 (GCC 15.2.0) | 2026-01-09 |
-| C. Multi Test Cases | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | C. Multi Test Cases | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 
 ---
