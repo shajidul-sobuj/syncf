@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2193A - DBMB_and_the_Array
- * Link: https://codeforces.com/contest/2193/problem/A
- * Submission ID: 359776354
- * Language: C++17 (GCC 7-32)
- * Execution Time: 31 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: brute force, math
- * Submitted At: Sun, 25 Jan 2026 14:58:53 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2193A - DBMB and the Array
 
 #include <bits/stdc++.h>
 using namespace std;
