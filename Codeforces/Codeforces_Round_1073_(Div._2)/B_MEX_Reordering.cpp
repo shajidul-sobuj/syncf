@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2191B - MEX_Reordering
- * Link: https://codeforces.com/contest/2191/problem/B
- * Submission ID: 358297464
- * Language: C++17 (GCC 7-32)
- * Execution Time: 31 ms | Memory: N/A
- * Verdict: OK
- * Rating: 1000 | Tags: constructive algorithms, sortings
- * Submitted At: Sat, 17 Jan 2026 15:10:21 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2191B - MEX Reordering
 
 #include <bits/stdc++.h>
 using namespace std;
