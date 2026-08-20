@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **34** |
-| 📁 Contests | **26** |
+| ✅ Problems Solved | **35** |
+| 📁 Contests | **27** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | 2194B - Offshores | - | C++17 (GCC 7-32) | 2026-08-20 |
+| Sleeping Through Classes | 800 | C++17 (GCC 7-32) | 2026-02-10 |
 | Domino piling | 800 | C++17 (GCC 7-32) | 2026-02-08 |
 | Reverse a Permutation | 800 | C++17 (GCC 7-32) | 2026-02-08 |
 | Divisible Permutation | 800 | C++17 (GCC 7-32) | 2026-01-29 |
-| Boy or Girl | 800 | C++17 (GCC 7-32) | 2026-01-27 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
