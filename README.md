@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **43** |
+| 🧠 Total Problems Solved | **44** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **40** |
+| Atcoder | **41** |
 | Leetcode | **3** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | B. 3,2,1,GO | C++23 (GCC 15.2.0) | 2026-03-21 |
 | Atcoder | G. Cutting Woods | C++23 (GCC 15.2.0) | 2026-03-11 |
 | Atcoder | C. Good Sequence | C++23 (GCC 15.2.0) | 2026-03-09 |
 | Atcoder | D. Pepper Addiction | C++23 (GCC 15.2.0) | 2026-03-07 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Atcoder | C. Swappable | C++23 (GCC 15.2.0) | 2026-03-05 |
 | Atcoder | A. RGB Cards | C++23 (GCC 15.2.0) | 2026-02-18 |
 | Atcoder | A. Grouping | C++23 (GCC 15.2.0) | 2026-02-18 |
-| Atcoder | A. AtCoDeer and Paint Cans | C++23 (GCC 15.2.0) | 2026-02-18 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
