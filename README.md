@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **3** |
+| 🧠 Total Problems Solved | **1** |
 
 ## 🔥 Code Mastery
 
@@ -22,14 +22,12 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Leetcode | **3** |
+| Leetcode | **1** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
-| Leetcode | Binary Tree Preorder Traversal | cpp | 2026-01-29 |
-| Leetcode | Binary Tree Postorder Traversal | cpp | 2026-01-29 |
 | Leetcode | Binary Tree Postorder Traversal | cpp | 2026-01-29 |
 
 ---
