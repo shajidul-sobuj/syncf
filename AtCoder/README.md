@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **13** |
-| 📁 Contests | **11** |
+| ✅ Problems Solved | **14** |
+| 📁 Contests | **12** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| A. Double Click | - | C++23 (GCC 15.2.0) | 2026-01-21 |
 | A. flip | - | C++23 (GCC 15.2.0) | 2026-01-21 |
 | D. Trifecta | - | C++23 (GCC 15.2.0) | 2026-01-10 |
 | A. Octave | - | C++23 (GCC 15.2.0) | 2026-01-10 |
 | C. Subscribers | - | C++23 (GCC 15.2.0) | 2026-01-09 |
-| B. Rotate | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
