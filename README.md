@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **66** |
+| 🧠 Total Problems Solved | **67** |
 
 ## 🔥 Code Mastery
 
@@ -22,7 +22,7 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **59** |
+| Atcoder | **60** |
 | Leetcode | **7** |
 
 ## 🚀 Recent Submissions
@@ -30,13 +30,13 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Atcoder | A. Obesity | C++23 (GCC 15.2.0) | 2026-07-19 |
+| Atcoder | A. Obesity | C++23 (GCC 15.2.0) | 2026-07-19 |
 | Atcoder | B. Keep the Change | C++23 (GCC 15.2.0) | 2026-07-18 |
 | Atcoder | D. Placing Rooks | C++23 (GCC 15.2.0) | 2026-07-11 |
 | Atcoder | B. Representative Balls | C++23 (GCC 15.2.0) | 2026-07-11 |
 | Atcoder | A. Compromise  | C++23 (GCC 15.2.0) | 2026-07-11 |
 | Atcoder | A. Frog 1 | C++23 (GCC 15.2.0) | 2026-07-01 |
 | Atcoder | D. The Honest Woodcutters | C++23 (GCC 15.2.0) | 2026-06-06 |
-| Atcoder | A. Armor | C++23 (GCC 15.2.0) | 2026-06-06 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
