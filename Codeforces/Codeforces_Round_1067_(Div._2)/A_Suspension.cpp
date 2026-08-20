@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2158A - Suspension
- * Link: https://codeforces.com/contest/2158/problem/A
- * Submission ID: 351227962
- * Language: C++17 (GCC 7-32)
- * Execution Time: 61 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: constructive algorithms, greedy, math
- * Submitted At: Sat, 29 Nov 2025 15:53:40 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2158A - Suspension
 
 #include <bits/stdc++.h>
 using namespace std;
