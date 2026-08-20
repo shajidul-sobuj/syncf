@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **27** |
-| 📁 Contests | **20** |
+| ✅ Problems Solved | **28** |
+| 📁 Contests | **21** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| B. Minor Change | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 | B. Not Found | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 | A. Buttons | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 | E. Sugoroku Destination | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 | C. Center Alignment | - | C++23 (GCC 15.2.0) | 2026-02-14 |
-| B. Strong Word | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
