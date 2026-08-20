@@ -13,15 +13,13 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **3** |
+| ✅ Problems Solved | **1** |
 | 📁 Contests | **1** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
-| Binary Tree Preorder Traversal | - | cpp | 2026-01-29 |
-| Binary Tree Postorder Traversal | - | cpp | 2026-01-29 |
 | Binary Tree Postorder Traversal | - | cpp | 2026-01-29 |
 
 ---
