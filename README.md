@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **7** |
+| 🧠 Total Problems Solved | **8** |
 
 ## 🔥 Code Mastery
 
@@ -23,13 +23,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Platform | Problems Solved |
 |----------|----------------|
 | Leetcode | **1** |
-| Atcoder | **6** |
+| Atcoder | **7** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Leetcode | Binary Tree Postorder Traversal | cpp | 2026-01-29 |
+| Atcoder | B. Greedy Takahashi | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | A. 2UP3DOWN | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | B. Attack | C++23 (GCC 15.2.0) | 2026-01-09 |
 | Atcoder | C. Multi Test Cases | C++23 (GCC 15.2.0) | 2026-01-09 |
