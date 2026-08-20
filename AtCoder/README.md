@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **6** |
-| 📁 Contests | **5** |
+| ✅ Problems Solved | **7** |
+| 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| B. Greedy Takahashi | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | A. 2UP3DOWN | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | B. Attack | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | C. Multi Test Cases | - | C++23 (GCC 15.2.0) | 2026-01-09 |
 | C. Multi Test Cases | - | C++23 (GCC 15.2.0) | 2026-01-09 |
-| B. First Contest of the Year | - | C++23 (GCC 15.2.0) | 2025-12-27 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
