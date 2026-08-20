@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 1560A - Dislike_of_Threes
- * Link: https://codeforces.com/contest/1560/problem/A
- * Submission ID: 357097945
- * Language: C++17 (GCC 7-32)
- * Execution Time: 46 ms | Memory: 100 KB
- * Verdict: OK
- * Rating: 800 | Tags: implementation
- * Submitted At: Fri, 09 Jan 2026 14:44:10 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 1560A - Dislike of Threes
 
 #include <bits/stdc++.h>
 using namespace std;
