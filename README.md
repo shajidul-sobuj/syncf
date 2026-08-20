@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **7** |
+| 🧠 Total Problems Solved | **8** |
 
 ## 🔥 Code Mastery
 
@@ -22,7 +22,7 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **7** |
+| Codeforces | **8** |
 
 ## 🚀 Recent Submissions
 
@@ -33,6 +33,7 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Codeforces | 158A - Next Round | C++17 (GCC 7-32) | 2026-08-20 |
 | Codeforces | 339A - Helpful Maths | C++17 (GCC 7-32) | 2026-08-20 |
 | Codeforces | 231A - Team | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | 266A - Stones on the Table | C++17 (GCC 7-32) | 2026-08-20 |
 | Codeforces | 263A - Beautiful Matrix | GNU C11 | 2026-08-20 |
 | Codeforces | 71A - Way Too Long Words | C++17 (GCC 7-32) | 2026-08-20 |
 
