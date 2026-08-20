@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **15** |
+| ✅ Problems Solved | **16** |
 | 📁 Contests | **14** |
 
 ## 🕐 Recent Submissions
@@ -21,10 +21,10 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | 2194B - Offshores | - | C++17 (GCC 7-32) | 2026-08-20 |
+| Hourglass | 1100 | C++17 (GCC 7-32) | 2026-01-12 |
 | Social Experiment | 800 | C++17 (GCC 7-32) | 2026-01-12 |
 | Nearly Lucky Number | 800 | C++17 (GCC 7-32) | 2026-01-09 |
 | Dislike of Threes | 800 | C++17 (GCC 7-32) | 2026-01-09 |
-| New Year String | 800 | C++17 (GCC 7-32) | 2025-12-29 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
