@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **69** |
+| 🧠 Total Problems Solved | **70** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **62** |
+| Atcoder | **63** |
 | Leetcode | **7** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | C. Cookies and Greedy Takahashi | C++23 (GCC 15.2.0) | 2026-08-15 |
 | Atcoder | B. Survey Tabulation | C++23 (GCC 15.2.0) | 2026-08-15 |
 | Atcoder | A. Nine or Nein | C++23 (GCC 15.2.0) | 2026-08-15 |
 | Atcoder | A. Obesity | C++23 (GCC 15.2.0) | 2026-07-19 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Atcoder | B. Keep the Change | C++23 (GCC 15.2.0) | 2026-07-18 |
 | Atcoder | D. Placing Rooks | C++23 (GCC 15.2.0) | 2026-07-11 |
 | Atcoder | B. Representative Balls | C++23 (GCC 15.2.0) | 2026-07-11 |
-| Atcoder | A. Compromise  | C++23 (GCC 15.2.0) | 2026-07-11 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
