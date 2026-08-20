@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **2** |
+| ✅ Problems Solved | **3** |
 | 📁 Contests | **1** |
 
 ## 🕐 Recent Submissions
@@ -21,6 +21,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | Binary Tree Preorder Traversal | - | cpp | 2026-01-29 |
+| Binary Tree Postorder Traversal | - | cpp | 2026-01-29 |
 | Binary Tree Postorder Traversal | - | cpp | 2026-01-29 |
 
 ---
