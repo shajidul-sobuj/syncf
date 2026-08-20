@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2193C - Replace_and_Sum
- * Link: https://codeforces.com/contest/2193/problem/C
- * Submission ID: 359867546
- * Language: C++17 (GCC 7-32)
- * Execution Time: 906 ms | Memory: 2500 KB
- * Verdict: OK
- * Rating: 1000 | Tags: data structures, greedy
- * Submitted At: Sun, 25 Jan 2026 16:24:35 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2193C - Replace and Sum
 
 #include <bits/stdc++.h>
 using namespace std;
