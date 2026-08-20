@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 1883B - Chemistry
- * Link: https://codeforces.com/contest/1883/problem/B
- * Submission ID: 362927763
- * Language: C++17 (GCC 7-32)
- * Execution Time: 62 ms | Memory: 100 KB
- * Verdict: OK
- * Rating: 900 | Tags: strings
- * Submitted At: Sat, 14 Feb 2026 15:18:18 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 1883B - Chemistry
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -23,7 +13,7 @@ void solve()
     vector <int> fr(26,0);
     for (int i=0;i<n;i++)
     {
-        int idx = (int)s[i]-&#39;a&#39;;
+        int idx = (int)s[i]-'a';
         fr[idx]++;
     }
 
