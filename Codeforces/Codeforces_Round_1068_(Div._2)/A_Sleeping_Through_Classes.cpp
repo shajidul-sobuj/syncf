@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2173A - Sleeping_Through_Classes
- * Link: https://codeforces.com/contest/2173/problem/A
- * Submission ID: 362313415
- * Language: C++17 (GCC 7-32)
- * Execution Time: 46 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: greedy, implementation
- * Submitted At: Tue, 10 Feb 2026 17:54:54 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2173A - Sleeping Through Classes
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -24,13 +14,13 @@ void solve()
     int count = 0;
     for (int i=0;i<n;i++)
     {
-        if (v[i] == &#39;0&#39; && test == 0 )
+        if (v[i] == '0' && test == 0 )
         {
             count++;
-        }else if (v[i] == &#39;1&#39;)
+        }else if (v[i] == '1')
         {
             test = k;
-        }else if (v[i] == &#39;0&#39; && test != 0 )
+        }else if (v[i] == '0' && test != 0 )
         {
             test--;
         }
