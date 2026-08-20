@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 25A - IQ_test
- * Link: https://codeforces.com/contest/25/problem/A
- * Submission ID: 358885982
- * Language: C++17 (GCC 7-32)
- * Execution Time: 92 ms | Memory: 100 KB
- * Verdict: OK
- * Rating: 1300 | Tags: brute force
- * Submitted At: Tue, 20 Jan 2026 08:17:50 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 25A - IQ test
 
 #include <bits/stdc++.h>
 using namespace std;
