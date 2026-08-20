@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **34** |
+| 🧠 Total Problems Solved | **35** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **31** |
+| Atcoder | **32** |
 | Leetcode | **3** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | A. Multiple of 2 and N | C++23 (GCC 15.2.0) | 2026-02-18 |
 | Atcoder | C. How many? | C++23 (GCC 15.2.0) | 2026-02-18 |
 | Atcoder | A. Biscuit Generator | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | B. Find Multiple | C++23 (GCC 15.2.0) | 2026-02-14 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Atcoder | B. Not Found | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | A. Buttons | C++23 (GCC 15.2.0) | 2026-02-14 |
 | Atcoder | E. Sugoroku Destination | C++23 (GCC 15.2.0) | 2026-02-14 |
-| Atcoder | C. Center Alignment | C++23 (GCC 15.2.0) | 2026-02-14 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
