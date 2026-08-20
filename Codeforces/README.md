@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **25** |
-| 📁 Contests | **19** |
+| ✅ Problems Solved | **26** |
+| 📁 Contests | **20** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | 2194B - Offshores | - | C++17 (GCC 7-32) | 2026-08-20 |
+| IQ test | 1300 | C++17 (GCC 7-32) | 2026-01-20 |
 | Chat room | 1000 | C++17 (GCC 7-32) | 2026-01-20 |
 | String Task | 1000 | C++17 (GCC 7-32) | 2026-01-20 |
 | Bit++ | 800 | C++17 (GCC 7-32) | 2026-01-19 |
-| Prefix Max | 800 | C++17 (GCC 7-32) | 2026-01-18 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
