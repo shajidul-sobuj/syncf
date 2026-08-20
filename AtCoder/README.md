@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **33** |
-| 📁 Contests | **26** |
+| ✅ Problems Solved | **34** |
+| 📁 Contests | **27** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| A. Grouping | - | C++23 (GCC 15.2.0) | 2026-02-18 |
 | A. AtCoDeer and Paint Cans | - | C++23 (GCC 15.2.0) | 2026-02-18 |
 | A. Multiple of 2 and N | - | C++23 (GCC 15.2.0) | 2026-02-18 |
 | C. How many? | - | C++23 (GCC 15.2.0) | 2026-02-18 |
 | A. Biscuit Generator | - | C++23 (GCC 15.2.0) | 2026-02-14 |
-| B. Find Multiple | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
