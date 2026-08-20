@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2178A - Yes_or_Yes
- * Link: https://codeforces.com/contest/2178/problem/A
- * Submission ID: 355346187
- * Language: C++17 (GCC 7-32)
- * Execution Time: 46 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: greedy, strings
- * Submitted At: Sat, 27 Dec 2025 15:05:41 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2178A - Yes or Yes
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -23,7 +13,7 @@ int main() {
         cin >> s;
         int freq = 0;
         for (char c : s) {
-            if (c == &#39;Y&#39;) {
+            if (c == 'Y') {
                 freq++;
             }
         }
