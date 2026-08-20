@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **9** |
+| ✅ Problems Solved | **10** |
 | 📁 Contests | **1** |
 
 ## 🕐 Recent Submissions
