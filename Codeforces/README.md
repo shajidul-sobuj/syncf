@@ -13,14 +13,14 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **0** |
-| 📁 Contests | **0** |
+| ✅ Problems Solved | **1** |
+| 📁 Contests | **1** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
-
+| 2194B - Offshores | - | C++17 (GCC 7-32) | 2026-08-20 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
