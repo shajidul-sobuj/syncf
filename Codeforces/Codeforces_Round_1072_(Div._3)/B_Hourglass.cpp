@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 2184B - Hourglass
- * Link: https://codeforces.com/contest/2184/problem/B
- * Submission ID: 357485816
- * Language: C++17 (GCC 7-32)
- * Execution Time: 15 ms | Memory: N/A
- * Verdict: OK
- * Rating: 1100 | Tags: math
- * Submitted At: Mon, 12 Jan 2026 14:54:41 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 2184B - Hourglass
 
 #include <bits/stdc++.h>
 using namespace std;
