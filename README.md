@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **44** |
+| 🧠 Total Problems Solved | **45** |
 
 ## 🔥 Code Mastery
 
@@ -22,19 +22,19 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **44** |
+| Codeforces | **45** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | Draw a Square | C++23 (GCC 14-64, msys2) | 2026-02-19 |
 | Codeforces | Watermelon | C++23 (GCC 14-64, msys2) | 2026-02-18 |
 | Codeforces | Sakurako's Exam | C++23 (GCC 14-64, msys2) | 2026-02-18 |
 | Codeforces | Sieve of Erato67henes | C++17 (GCC 7-32) | 2026-02-15 |
 | Codeforces | Twin Permutations | C++17 (GCC 7-32) | 2026-02-14 |
 | Codeforces | Twin Permutations | C++17 (GCC 7-32) | 2026-02-14 |
-| Codeforces | Chemistry | C++17 (GCC 7-32) | 2026-02-14 |
 | Codeforces | Chemistry | C++17 (GCC 7-32) | 2026-02-14 |
 
 ---
