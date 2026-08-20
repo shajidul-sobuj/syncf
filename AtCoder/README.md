@@ -13,14 +13,13 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **2** |
-| 📁 Contests | **2** |
+| ✅ Problems Solved | **1** |
+| 📁 Contests | **1** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
-| abc438_a | - | C++23 (GCC 15.2.0) | 2025-12-27 |
 | abc430_a | - | C23 (Clang 21.1.0) | 2025-11-01 |
 
 ---
