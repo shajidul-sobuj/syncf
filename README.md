@@ -1,33 +1,34 @@
 <div align="center">
 
-# 🍱 The Algo Bento
+# 📦 The Algo Bento
 
-<i>An aesthetically organized vault of my Competitive Programming journey.</i>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📈 Overall Progress</h3>
-      <h1>366</h1>
-      <p>Problems Solved</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔥 Code Mastery</h3>
-      <p>Continuously pushing limits across platforms like Codeforces, LeetCode, and AtCoder.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">🚀 Recent Submissions</h3>
-      <ul>
-        <li><b>Codeforces:</b> <code>GCD_Compression</code></li>
-        <li><b>Codeforces:</b> <code>String_Task</code></li>
-        <li><b>Codeforces:</b> <code>String_Task</code></li>
-        <li><b>Codeforces:</b> <code>Sum_of_Round_Numbers</code></li>
-        <li><b>Codeforces:</b> <code>Sum_of_Round_Numbers</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*An aesthetically organized vault of my Competitive Programming journey.*
 
 </div>
+
+---
+
+## ☑️ Overall Progress
+
+| Metric | |
+|--------|--|
+| 🧠 Total Problems Solved | **0** |
+
+## 🔥 Code Mastery
+
+Continuously pushing limits across platforms. Automatically synced via [CPRepo](https://cprepo.vercel.app).
+
+## 📊 Platform Breakdown
+
+| Platform | Problems Solved |
+|----------|----------------|
+
+
+## 🚀 Recent Submissions
+
+| Platform | Problem | Language | Date |
+|----------|---------|----------|------|
+
+
+---
+*Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
