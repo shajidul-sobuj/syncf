@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **28** |
+| 🧠 Total Problems Solved | **29** |
 
 ## 🔥 Code Mastery
 
@@ -22,20 +22,20 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **28** |
+| Codeforces | **29** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | DBMB and the Array | C++17 (GCC 7-32) | 2026-01-25 |
 | Codeforces | Short Sort | C++17 (GCC 7-32) | 2026-01-21 |
 | Codeforces | YES or YES? | C++17 (GCC 7-32) | 2026-01-21 |
 | Codeforces | IQ test | C++17 (GCC 7-32) | 2026-01-20 |
 | Codeforces | Chat room | C++17 (GCC 7-32) | 2026-01-20 |
 | Codeforces | String Task | C++17 (GCC 7-32) | 2026-01-20 |
 | Codeforces | Bit++ | C++17 (GCC 7-32) | 2026-01-19 |
-| Codeforces | Prefix Max | C++17 (GCC 7-32) | 2026-01-18 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
