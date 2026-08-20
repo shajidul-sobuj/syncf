@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **22** |
-| 📁 Contests | **17** |
+| ✅ Problems Solved | **23** |
+| 📁 Contests | **18** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| B. Strong Word | - | C++23 (GCC 15.2.0) | 2026-02-14 |
 | A. Product Quality Evaluation | - | C++23 (GCC 15.2.0) | 2026-02-11 |
 | C. Discount Coupon | - | C++23 (GCC 15.2.0) | 2026-02-09 |
 | B. Exam Passers | - | C++23 (GCC 15.2.0) | 2026-02-09 |
 | A. Bacteria Growth Experiment | - | C++23 (GCC 15.2.0) | 2026-02-09 |
-| A. Append s | - | C++23 (GCC 15.2.0) | 2026-02-07 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
