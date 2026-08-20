@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **59** |
+| ✅ Problems Solved | **60** |
 | 📁 Contests | **42** |
 
 ## 🕐 Recent Submissions
@@ -21,10 +21,10 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | A. Obesity | - | C++23 (GCC 15.2.0) | 2026-07-19 |
+| A. Obesity | - | C++23 (GCC 15.2.0) | 2026-07-19 |
 | B. Keep the Change | - | C++23 (GCC 15.2.0) | 2026-07-18 |
 | D. Placing Rooks | - | C++23 (GCC 15.2.0) | 2026-07-11 |
 | B. Representative Balls | - | C++23 (GCC 15.2.0) | 2026-07-11 |
-| A. Compromise  | - | C++23 (GCC 15.2.0) | 2026-07-11 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
