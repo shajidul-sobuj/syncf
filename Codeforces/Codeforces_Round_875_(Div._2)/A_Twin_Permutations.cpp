@@ -1,15 +1,5 @@
-/*
- * Codeforces Auto Push - Synced Solution
- * 
- * Problem: 1831A - Twin_Permutations
- * Link: https://codeforces.com/contest/1831/problem/A
- * Submission ID: 362934406
- * Language: C++17 (GCC 7-32)
- * Execution Time: 156 ms | Memory: N/A
- * Verdict: OK
- * Rating: 800 | Tags: constructive algorithms
- * Submitted At: Sat, 14 Feb 2026 16:14:31 GMT
- */
+// Code fetched by CPRepo (https://cprepo.vercel.app)
+// Platform: codeforces | Problem: 1831A - Twin Permutations
 
 #include <bits/stdc++.h>
 using namespace std;
