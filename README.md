@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **58** |
+| 🧠 Total Problems Solved | **59** |
 
 ## 🔥 Code Mastery
 
@@ -22,13 +22,14 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Atcoder | **51** |
+| Atcoder | **52** |
 | Leetcode | **7** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
+| Atcoder | A. Armor | C++23 (GCC 15.2.0) | 2026-06-06 |
 | Atcoder | F. Vanish | C++23 (GCC 15.2.0) | 2026-04-25 |
 | Atcoder | A. 455 | C++23 (GCC 15.2.0) | 2026-04-25 |
 | Atcoder | C. Mapping | C++23 (GCC 15.2.0) | 2026-04-18 |
@@ -36,7 +37,6 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 | Leetcode | Palindrome Number | cpp | 2026-04-17 |
 | Leetcode | Palindrome Number | cpp | 2026-04-17 |
 | Atcoder | D. Sensor Data Logging | C++23 (GCC 15.2.0) | 2026-04-11 |
-| Atcoder | B. Trimo | C++23 (GCC 15.2.0) | 2026-04-11 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
