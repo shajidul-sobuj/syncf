@@ -12,7 +12,7 @@
 
 | Metric | |
 |--------|--|
-| 🧠 Total Problems Solved | **36** |
+| 🧠 Total Problems Solved | **37** |
 
 ## 🔥 Code Mastery
 
@@ -22,20 +22,20 @@ Continuously pushing limits across platforms. Automatically synced via [CPRepo](
 
 | Platform | Problems Solved |
 |----------|----------------|
-| Codeforces | **36** |
+| Codeforces | **37** |
 
 ## 🚀 Recent Submissions
 
 | Platform | Problem | Language | Date |
 |----------|---------|----------|------|
 | Codeforces | 2194B - Offshores | C++17 (GCC 7-32) | 2026-08-20 |
+| Codeforces | Bear and Big Brother | C++17 (GCC 7-32) | 2026-02-13 |
 | Codeforces | Friendly Numbers | C++17 (GCC 7-32) | 2026-02-11 |
 | Codeforces | Sleeping Through Classes | C++17 (GCC 7-32) | 2026-02-10 |
 | Codeforces | Domino piling | C++17 (GCC 7-32) | 2026-02-08 |
 | Codeforces | Reverse a Permutation | C++17 (GCC 7-32) | 2026-02-08 |
 | Codeforces | Divisible Permutation | C++17 (GCC 7-32) | 2026-01-29 |
 | Codeforces | Boy or Girl | C++17 (GCC 7-32) | 2026-01-27 |
-| Codeforces | Replace and Sum | C++17 (GCC 7-32) | 2026-01-25 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app) | shajidul islam Sobuj*
