@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **17** |
-| 📁 Contests | **14** |
+| ✅ Problems Solved | **18** |
+| 📁 Contests | **15** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
+| A. Append s | - | C++23 (GCC 15.2.0) | 2026-02-07 |
 | B. Repdigit | - | C++23 (GCC 15.2.0) | 2026-02-07 |
 | A. Count . | - | C++23 (GCC 15.2.0) | 2026-01-24 |
 | D. Climbing Takahashi | - | C++23 (GCC 15.2.0) | 2026-01-21 |
 | A. Double Click | - | C++23 (GCC 15.2.0) | 2026-01-21 |
-| A. flip | - | C++23 (GCC 15.2.0) | 2026-01-21 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
