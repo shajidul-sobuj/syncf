@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **58** |
+| ✅ Problems Solved | **59** |
 | 📁 Contests | **5** |
 
 ## 🕐 Recent Submissions
@@ -22,9 +22,9 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-neat-brackets | - | C++17 GCC 13.2 | 2025-11-19 |
+| Toph-neat-brackets | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-neat-brackets | - | C++23 GCC 13.2 | 2025-11-19 |
 | Toph-neat-brackets | - | C++23 GCC 13.2 | 2025-11-19 |
-| Toph-ascii-progress-bar | - | C++23 GCC 13.2 | 2025-11-19 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
