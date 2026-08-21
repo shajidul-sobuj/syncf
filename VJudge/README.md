@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **48** |
+| ✅ Problems Solved | **49** |
 | 📁 Contests | **5** |
 
 ## 🕐 Recent Submissions
@@ -23,7 +23,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-ascii-progress-bar | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-ascii-progress-bar | - | C++17 GCC 13.2 | 2025-11-19 |
-| Toph-caesar-cipher | - | C++17 GCC 13.2 | 2025-11-19 |
+| Toph-ascii-progress-bar | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-caesar-cipher | - | C++17 GCC 13.2 | 2025-11-19 |
 
 ---
