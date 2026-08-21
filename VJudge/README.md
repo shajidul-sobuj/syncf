@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **54** |
+| ✅ Problems Solved | **55** |
 | 📁 Contests | **5** |
 
 ## 🕐 Recent Submissions
@@ -24,7 +24,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Toph-ascii-progress-bar | - | C++23 GCC 13.2 | 2025-11-19 |
 | Toph-ascii-progress-bar | - | C++23 GCC 13.2 | 2025-11-19 |
 | Toph-ascii-progress-bar | - | C++23 GCC 13.2 | 2025-11-19 |
-| Toph-ascii-progress-bar | - | C++17 GCC 13.2 | 2025-11-19 |
+| Toph-ascii-progress-bar | - | C++23 GCC 13.2 | 2025-11-19 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
