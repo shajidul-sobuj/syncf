@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **32** |
+| ✅ Problems Solved | **33** |
 | 📁 Contests | **3** |
 
 ## 🕐 Recent Submissions
@@ -24,7 +24,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
 | Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
 | Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
-| Toph-nusrat-apur-treat | - | C++23 GCC 13.2 | 2025-11-11 |
+| Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
