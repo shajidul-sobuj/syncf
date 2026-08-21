@@ -1,5 +1,5 @@
 // Solution for VJudge Problem
-// Original URL: https://vjudge.net/solution/65732356
+// Original URL: https://vjudge.net/solution/65732377
 // Note: VJudge blocked access to the original source code.
 // Please check your VJudge account to view the code directly.
 
