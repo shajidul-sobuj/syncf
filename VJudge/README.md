@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **27** |
+| ✅ Problems Solved | **28** |
 | 📁 Contests | **2** |
 
 ## 🕐 Recent Submissions
@@ -24,7 +24,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
-| Aizu-ITP1_4_D | - | C | 2025-10-23 |
+| Aizu-ITP1_4_D | - | C | 2025-10-30 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
