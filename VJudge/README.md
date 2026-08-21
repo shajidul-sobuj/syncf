@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **96** |
+| ✅ Problems Solved | **97** |
 | 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
@@ -23,8 +23,8 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-event-timing | - | C++17 GCC 13.2 | 2025-11-23 |
 | Toph-event-timing | - | C++17 GCC 13.2 | 2025-11-23 |
+| Toph-event-timing | - | C++17 GCC 13.2 | 2025-11-23 |
 | Toph-hashtag | - | C++17 GCC 13.2 | 2025-11-23 |
-| CSES-1068 | - | C++17 | 2025-11-21 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
