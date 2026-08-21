@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **117** |
+| ✅ Problems Solved | **118** |
 | 📁 Contests | **8** |
 
 ## 🕐 Recent Submissions
@@ -22,9 +22,9 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-the-universe-loves-minimum-steps | - | C++17 GCC 13.2 | 2025-11-27 |
+| Toph-the-universe-loves-minimum-steps | - | C++17 GCC 13.2 | 2025-11-27 |
 | Toph-mysterious-sum | - | C++17 GCC 13.2 | 2025-11-27 |
 | Toph-is-palindrome | - | C++17 GCC 13.2 | 2025-11-25 |
-| EOlymp-138 | - | C 17 (gnu 10.2) | 2025-11-25 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
