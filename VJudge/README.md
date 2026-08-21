@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **94** |
+| ✅ Problems Solved | **95** |
 | 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
@@ -21,10 +21,10 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
+| Toph-event-timing | - | C++17 GCC 13.2 | 2025-11-23 |
 | Toph-hashtag | - | C++17 GCC 13.2 | 2025-11-23 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
-| CodeChef-WATERFLOW | - | C | 2025-11-21 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
