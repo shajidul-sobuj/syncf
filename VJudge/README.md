@@ -5,7 +5,7 @@ Welcome to my Vjudge solutions vault!
 ## 👤 Profile Info
 
 - **Platform:** Vjudge
-- **Handle:** `shajidul-sobuj`
+- **Handle:** `shajidulsobuj`
 
 This directory contains all my accepted solutions, automatically synced via [CPRepo](https://cprepo.vercel.app).
 
@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **18** |
+| ✅ Problems Solved | **19** |
 | 📁 Contests | **2** |
 
 ## 🕐 Recent Submissions
