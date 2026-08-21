@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **31** |
+| ✅ Problems Solved | **32** |
 | 📁 Contests | **3** |
 
 ## 🕐 Recent Submissions
@@ -23,8 +23,8 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
 | Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
+| Toph-decent-arrays | - | C17 GCC 13.2 | 2025-11-11 |
 | Toph-nusrat-apur-treat | - | C++23 GCC 13.2 | 2025-11-11 |
-| Aizu-ITP1_4_D | - | C | 2025-10-30 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
