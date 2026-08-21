@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **87** |
+| ✅ Problems Solved | **88** |
 | 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
@@ -21,7 +21,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
-| CSES-1068 | - | C++17 | 2025-11-21 |
+| CodeChef-AMR15A | - | C++ (gcc 13.2.0) | 2025-11-21 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
