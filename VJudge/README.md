@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **74** |
-| 📁 Contests | **5** |
+| ✅ Problems Solved | **75** |
+| 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
+| Gym-287306J | - | GNU GCC C11 5.1.0 | 2025-11-21 |
 | Gym-287306H | - | GNU GCC C11 5.1.0 | 2025-11-21 |
 | Toph-lets-be-an-anagrammatist | - | C++17 GCC 13.2 | 2025-11-21 |
 | Toph-alayna-and-vowels | - | C++17 GCC 13.2 | 2025-11-21 |
-| Toph-alayna-and-vowels | - | C++17 GCC 13.2 | 2025-11-20 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
