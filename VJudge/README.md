@@ -13,15 +13,15 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **28** |
-| 📁 Contests | **2** |
+| ✅ Problems Solved | **29** |
+| 📁 Contests | **3** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
-| Aizu-ITP1_4_D | - | C | 2025-10-30 |
+| Toph-nusrat-apur-treat | - | C++23 GCC 13.2 | 2025-11-11 |
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
 | Aizu-ITP1_4_D | - | C | 2025-10-30 |
