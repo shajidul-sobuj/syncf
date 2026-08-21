@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **64** |
+| ✅ Problems Solved | **65** |
 | 📁 Contests | **5** |
 
 ## 🕐 Recent Submissions
@@ -22,8 +22,8 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | Toph-ice-cream-of-montu-mia | - | C++17 GCC 13.2 | 2025-11-19 |
+| Toph-ice-cream-of-montu-mia | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-aryas-counting | - | C++17 GCC 13.2 | 2025-11-19 |
-| Toph-aloyna-and-can-buying | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-aloyna-and-can-buying | - | C++17 GCC 13.2 | 2025-11-19 |
 
 ---
