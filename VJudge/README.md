@@ -13,18 +13,18 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **101** |
-| 📁 Contests | **6** |
+| ✅ Problems Solved | **102** |
+| 📁 Contests | **7** |
 
 ## 🕐 Recent Submissions
 
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
+| CodeChef-EXISTENCE | - | C++ (gcc 13.2.0) | 2025-11-24 |
 | Toph-formatted-numbers | - | C++17 GCC 13.2 | 2025-11-23 |
 | Toph-formatted-numbers | - | C++17 GCC 13.2 | 2025-11-23 |
 | Toph-victory-robot | - | C++17 GCC 13.2 | 2025-11-23 |
-| Toph-event-timing | - | C++17 GCC 13.2 | 2025-11-23 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
