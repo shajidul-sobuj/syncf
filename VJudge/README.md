@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **92** |
+| ✅ Problems Solved | **93** |
 | 📁 Contests | **6** |
 
 ## 🕐 Recent Submissions
@@ -22,9 +22,9 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
 | CSES-1068 | - | C++17 | 2025-11-21 |
+| CSES-1068 | - | C++17 | 2025-11-21 |
 | CodeChef-WATERFLOW | - | C | 2025-11-21 |
 | CodeChef-FLOW006 | - | C | 2025-11-21 |
-| CodeChef-FLOW006 | - | PYTH 3 | 2025-11-21 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
