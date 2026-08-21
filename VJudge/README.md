@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **105** |
+| ✅ Problems Solved | **106** |
 | 📁 Contests | **8** |
 
 ## 🕐 Recent Submissions
@@ -21,10 +21,10 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
+| SPOJ-PAIRS1 | - | C (gcc 8.3) | 2025-11-25 |
 | SPOJ-PAIRS1 | - | C++ (g++ 4.3.2) | 2025-11-25 |
 | SPOJ-SMPSEQ3 | - | C++ (g++ 4.3.2) | 2025-11-25 |
 | EOlymp-1 | - | C++ 23 (gnu 14.2 with gmp) | 2025-11-25 |
-| CodeChef-EXISTENCE | - | C++ (gcc 13.2.0) | 2025-11-24 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
