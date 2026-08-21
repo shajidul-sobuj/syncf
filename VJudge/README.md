@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **67** |
+| ✅ Problems Solved | **68** |
 | 📁 Contests | **5** |
 
 ## 🕐 Recent Submissions
@@ -21,9 +21,9 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | Problem | Rating | Language | Date |
 |---------|--------|----------|------|
 | CodeForces-158A | - | C++17 (GCC 7-32) | 2025-12-21 |
+| Toph-little-subarray-sum | - | C++17 GCC 13.2 | 2025-11-20 |
 | Toph-digit-separation | - | C++17 GCC 13.2 | 2025-11-20 |
 | Toph-the-haunted-house | - | C++17 GCC 13.2 | 2025-11-20 |
-| Toph-ice-cream-of-montu-mia | - | C++17 GCC 13.2 | 2025-11-19 |
 | Toph-ice-cream-of-montu-mia | - | C++17 GCC 13.2 | 2025-11-19 |
 
 ---
