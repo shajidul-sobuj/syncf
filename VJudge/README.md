@@ -13,7 +13,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 
 | Metric | Count |
 |--------|-------|
-| ✅ Problems Solved | **109** |
+| ✅ Problems Solved | **110** |
 | 📁 Contests | **8** |
 
 ## 🕐 Recent Submissions
@@ -24,7 +24,7 @@ This directory contains all my accepted solutions, automatically synced via [CPR
 | EOlymp-76 | - | C++ 23 (gnu 14.2 with gmp) | 2025-11-25 |
 | EOlymp-76 | - | C++ 23 (gnu 14.2 with gmp) | 2025-11-25 |
 | EOlymp-76 | - | C++ 23 (gnu 14.2 with gmp) | 2025-11-25 |
-| SPOJ-PAIRS1 | - | C (gcc 8.3) | 2025-11-25 |
+| EOlymp-76 | - | C++ 23 (gnu 14.2 with gmp) | 2025-11-25 |
 
 ---
 *Auto-synced via [CPRepo](https://cprepo.vercel.app)*
